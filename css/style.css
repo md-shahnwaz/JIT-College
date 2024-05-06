@@ -1,0 +1,161 @@
+.smi{
+    list-style-type: none;
+}
+.smi li{
+    display: inline-block;
+    background-color: #092346;
+    border-radius: 50%;
+    padding: 4px 10px;
+}
+.smi li a{
+    color: white;
+}
+
+.smi li:hover{
+    color: #092346;
+    outline: 1px solid #092346;
+    background-color: #D6F0FF;
+}
+
+.smi li:hover a{
+    color: #092346;
+}
+
+.smi li a:hover{
+    color: #092346;
+}
+
+
+
+
+.smi-footer{
+    list-style-type: none;
+}
+.smi-footer li{
+    display: inline-block;
+    background-color: #F4C03B;
+    border-radius: 50%;
+    padding: 8px 14px;
+}
+.smi-footer li a{
+    color: #092346;
+}
+
+.smi-footer li:hover{
+    color: #092346;
+    outline: 1px solid #092346;
+    background-color: white;
+}
+
+.smi-footer li:hover a{
+    color: #092346;
+}
+
+.smi-footer li a:hover{
+    color: #092346;
+}
+
+
+
+
+.my-bg{
+    background-color: #D6F0FF;
+}
+
+.jit-bg{
+    background-color: #082648;
+}
+
+.jit-bg2{
+    background-color: #233141;
+}
+
+.jit-bg-darker{
+    background-color: #001C38;
+}
+
+
+.text-jit{
+    color: #082648;
+}
+
+.navbar-nav li a{
+    border-radius: 10px;
+}
+
+.navbar-nav li a:hover {
+    color: #092346;
+    background-color: #a5d8f5;
+}
+
+.nav-open{
+    border-radius: 10px;
+    background-color: #a5d8f5;
+}
+
+a{
+    text-decoration: none;
+}
+
+.my-footer{
+    list-style-type: none;
+}
+.my-footer a{
+    color:white;
+}
+
+.my-footer a:hover{
+    color:#F4C03B;
+}
+
+.about-list{
+    list-style-type: none;
+}
+
+.about-list a{
+    color:#082648;
+}
+
+.about-list li a{
+    border-radius: 10px;
+    padding: 18px;
+}
+
+.about-list li a:hover {
+    color: white;
+    transition: 1s ease;
+    background-color: #092346;
+}
+
+.contact{
+    list-style-type: none;
+}
+
+.contact li a{
+    color:#082648;
+}
+
+.contact li a:hover{
+    color:#f90778;
+}
+
+.transition{
+    transition-duration: 0.3s;
+    transition-property:all ;
+    transition-delay: 0.1s;
+}
+
+.transition:hover{
+    color: rgb(129, 15, 230);
+    transform: scale(1.1);
+}
+
+.transition-2{
+    transition-duration: 0.3s;
+    transition-property:all ;
+    transition-delay: 0.1s;
+}
+
+.transition-2:hover{
+    transform: scale(1.2);
+}
